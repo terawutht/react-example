@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "token":"vlfkorjknnvskvjhsur84hsncn32l2jaac,dckdkc4n4f0fiv",
+        "name":"iphone xs",
+        "img":"iphone-xs.png",
+        "brand":"iphone",
+        "detail":"this is iphone xs",
+        "price":"35000",
+        "total":"6"
+    },{
+        "id":2,
+        "token":"dkvlienvnwklj29fjdlsancsaksodksodosjd933jkskksss",
+        "name":"samsung a70",
+        "img":"samsung-a70.png",
+        "brand":"samsung",
+        "detail":"this is sumsung a70",
+        "price":"20000",
+        "total":"3"
+    },{
+        "id":3,
+        "token":"dsakdjisajdisajdksakdaskdj2ijdlsndasndlsanldslad",
+        "name":"Iphone 10",
+        "img":"iphone-10.png",
+        "brand":"iphone",
+        "detail":"this is iphone 10",
+        "price":"30000",
+        "total":"8"
+    },{
+        "id":4,
+        "token":"clokofjelflci382lhfldslfndfhdsadjsaidlkfdv7hksfh",
+        "name":"samsung galaxy s8",
+        "img":"samsung-10.png",
+        "brand":"samsung",
+        "detail":"this is samsung galaxy s8",
+        "price":"27000",
+        "total":"2"
+    }
+]
